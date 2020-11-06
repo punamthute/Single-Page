@@ -1,0 +1,39 @@
+.mainContainer
+{
+    background-color:  #f2f2f2;
+   
+    width: 90%;
+    margin: 40px 60px 80px;
+
+}
+h2{
+    text-align: center;
+    padding:10px;
+}
+p{
+    text-align: center;
+   
+
+}
+.Image
+{
+   
+    width: 100%;
+   
+}
+.card
+{
+    display: flex;
+    padding: 40px;
+    
+}
+.footer
+{
+    margin-top: 20px;
+    font-family: 'Arimo', sans-serif;
+}
+.Button
+{
+    margin-left: 550px;
+    background-color: gray;
+}
